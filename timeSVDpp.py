@@ -75,7 +75,7 @@ class timeSVDpp:
         rmse = self.RMSE_librec()
         print 'RMSE = ', rmse
         print 'evaluation finished'
-
+        # test
 
     def init(self, nUsers, nItems, nFactors, nBins):
         #biases
